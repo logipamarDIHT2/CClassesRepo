@@ -1,1 +1,3 @@
-Здравствуйте, дорогие мои друзья, которые, наверное, найдут этот репозиторий и изъявят желание посмотреть, что же это все-таки за хрень. Короче, все читаем в гребаном README.
+Hello, my dear friends, that registered and found our repository. I hope you are here and this is the first commit to our repository. All information, which I know (not too much, but quite enough to make a commit) you can read in README file. Don't type in Russian. 
+
+// CATS!
